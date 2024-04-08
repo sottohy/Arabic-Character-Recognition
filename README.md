@@ -1,2 +1,2 @@
 # Arabic-character-recognition-models
-Arabic character recognition models (SVM, KNN, NN) using Python
+Arabic character recognition models (SVM & two NN models) using Python
