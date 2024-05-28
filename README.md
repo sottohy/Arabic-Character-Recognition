@@ -1,4 +1,4 @@
-# Arabic-character-recognition-models
+# Arabic Character Recognition
 
 Expirementing with multiple machine learning models for recognizing Arabic characters from images. It includes a Support Vector Machine (SVM), K-Nearest Neighbors (KNN), a simple Neural Network, and a Convolutional Neural Network (CNN). The data is preprocessed, trained, validated, and evaluated using these models to determine their performance.
 
